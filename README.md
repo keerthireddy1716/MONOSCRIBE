@@ -56,4 +56,4 @@ MonoScribe is an integrated wearable technology system designed to enhance commu
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/monoscribe.git
+   git clone https://github.com/keerthireddy1716/monoscribe.git
